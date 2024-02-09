@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006894065167",
+    "project_id": "chat-ae387",
+    "storage_bucket": "chat-ae387.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006894065167:android:8f86e27a34f98cc68f257a",
+        "android_client_info": {
+          "package_name": "com.kamaili.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiWsXauh0ahMl_QH2FPMbX8pjIaUuRyPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
